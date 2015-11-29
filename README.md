@@ -7,4 +7,4 @@ Unlike the common musical instruments which contain the whole scale in one piece
 ![](http://4.bp.blogspot.com/-JN0LjXjjcNA/UiBzNx508xI/AAAAAAAAC5U/eK2QZgbMyLg/s1600/Bamboo-Flute7.jpg)  
 When musicians are playing the zhudi, they need first choose the right zhudi with the right key.
 Sometimes choosing the right zhudi may come difficult to some amateur.
-So I am trying to help people find the right zhudi by a simple function zhudi().
+So I am trying to help people find the right zhudi by a simple function `zhudi()`.
